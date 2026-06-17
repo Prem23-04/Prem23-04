@@ -15,7 +15,8 @@ I am a **BCA student** and **Aspiring Data Scientist** with a strong foundation 
 - 💬 **WhatsApp Chat Analyzer:** A Python-Streamlit application that parses 10,000+ messages to provide instant behavioral insights and dashboards.
 - 🛍️ **Flipkart Data Dashboard:** An interactive web app evaluating 1,000+ retail records to monitor price, ratings, and discount distributions.
 - 📦 **Swiggy Data Analysis:** Cleaned and visualized 5,000+ rows of transactional data in Excel to isolate peak order patterns.
-
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+[![Deployment Status](https://img.shields.io/website?url=https%3A%2F%2Fyour-app-url.streamlit.app)](https://your-app-url.streamlit.app)
 ### 💼 Experience & Leadership
 - **AI & Content Development Intern** at Maulikavyanshu Foundation (Trained 50+ students in Python, C, and Java).
 - **Data Science Intern** at Techno hacks Pvt. Ltd.
